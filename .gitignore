@@ -12,6 +12,7 @@ dist/
 # Environments and notebooks
 .venv/
 venv/
+.phase1/
 .ipynb_checkpoints/
 
 # Local experiment artifacts
